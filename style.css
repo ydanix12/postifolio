@@ -3,6 +3,8 @@ body{
 }
 h1{
     color: aliceblue;
+    text-align: initial;
+
 }
 h2{
     color: aliceblue;
@@ -14,5 +16,10 @@ li{
     inline-size: 50px;
     display: inline;
     color: rgb(255, 255, 255);
-    margin: 50px;
+    margin: 20px;
+}
+container{
+    color: rgb(169, 169, 169);
+    text-align: center;
+display: flex;
 }
